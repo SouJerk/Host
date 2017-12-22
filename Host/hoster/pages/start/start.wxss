@@ -22,3 +22,6 @@ page{
 .tx5{
   margin-left: 7%
 }
+.tx6{
+  margin-left: 15%
+}
