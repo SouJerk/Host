@@ -5,7 +5,8 @@ Page({
     tempx:24.11,
     humx:43.73,
     ligx:121.00,
-    numbe:'晴 暖'
+    numbe:'晴 暖',
+    remind:'注意防晒 也别穿太少哟'
   },
   getDataFromOneNet: function () {
     //从oneNET请求我们的Wi-Fi气象站的数据
