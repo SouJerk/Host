@@ -1,0 +1,9 @@
+<!--start.wxml-->
+
+<view><button class="btn1" bindtap="getDataFromOneNet">
+查看环境变化情况</button></view>
+<view class="tv1"><text class="tx1">当前温度为<text>{{tempx}}</text></text></view>
+<view class="tv1"><text class="tx2">当前湿度为<text>{{humx}}</text></text></view>
+<view class="tv1"><text class="tx3">当前光强为<text>{{ligx}}</text></text></view>
+<view class="tv1"><text class="tx4">今天环境状况为<text>{{numbe}}</text></text></view>
+<view><text class="tx5">为您推荐了一首适合今天的音乐在右边</text></view>

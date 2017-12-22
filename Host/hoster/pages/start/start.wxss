@@ -1,0 +1,24 @@
+/* start.wxss */
+page{
+  height: 100%;
+}
+
+.btn1{
+  width: 60%;
+  top: 10%
+}
+.tx1{
+  margin-left: 20%
+}
+.tx2{
+  margin-left: 20%;
+}
+.tx3{
+  margin-left: 20%
+}
+.tx4{
+  margin-left: 20%
+}
+.tx5{
+  margin-left: 7%
+}

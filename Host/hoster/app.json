@@ -1,0 +1,36 @@
+{
+  "pages": [
+    "pages/start/start",
+    "pages/wifi_station/tianqi/tianqi",
+    "pages/music/music"
+    
+  ],
+  "window": {
+    "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "#EEAD0E",
+    "navigationBarTitleText": "智能管家",
+    "navigationBarTextStyle": "white",
+    "enablePullDownRefresh": true,
+    "backgroundColor":"#ADD8E6"
+  },
+  "tabBar": {
+    "color": "#191970",
+    "selectedColor": "#97FFFF",
+    "backgroundColor": "#ADD8E6",
+    "list": [
+      {
+        "pagePath": "pages/start/start",
+        "text": "天气",
+        "iconPath":"image/weather.png",
+        "selectedIconPath":"image/weather.png"
+      },
+      {
+        "pagePath": "pages/music/music",
+        "text": "音乐",
+        "iconPath": "image/music.png",
+        "selectedIconPath": "image/music.png"
+      }
+    ]
+  },
+  "debug": true
+}
